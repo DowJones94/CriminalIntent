@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Криминальные хроники</string>
+    <string name="crime_title_hint">Задайте заголовок для преступления.</string>
+    <string name="crime_title_label">Заголовок</string>
+    <string name="crime_details_label">Подробнее</string>
+    <string name="crime_solved_label">Раскрыто</string>
+    <string name="crime_requires_police">Позвонить в полицию</string>
+</resources>
